@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/feign-api/api/api.iml" filepath="$PROJECT_DIR$/feign-api/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-api/feign-api.iml" filepath="$PROJECT_DIR$/feign-api/feign-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-use/feign-use.iml" filepath="$PROJECT_DIR$/feign-use/feign-use.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-api/model/model.iml" filepath="$PROJECT_DIR$/feign-api/model/model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-api/service/service.iml" filepath="$PROJECT_DIR$/feign-api/service/service.iml" />
+    </modules>
+  </component>
+</project>

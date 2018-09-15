@@ -1,0 +1,11 @@
+server:
+  port: 9091
+
+spring:
+  application:
+    name: feignapi
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka.fengwenyi.com/eureka/
