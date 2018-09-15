@@ -34,8 +34,8 @@ public class FeignUseApplication {
             return false;
         return apiClient.addUser(new User()
                 .setUuid(Utils.getUUID())
-                .setName("张三")
-                .setAge(20));
+                .setName(name)
+                .setAge(age));
     }
 
     @GetMapping("/updateUser/{uuid}")
